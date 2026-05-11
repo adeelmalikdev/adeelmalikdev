@@ -17,5 +17,5 @@ I'm an AI/ML engineer focused on building robust agentic AI systems, RAG pipelin
 - **[fastapi-postman-streamlit](https://github.com/adeelmalikdev/fastapi-postman-streamlit):** Application demonstrating FastAPI backend integrated with a Streamlit interface.
 
 ## 📊 GitHub Stats
-![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeelmalikdev&show_icons=true&hide_border=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelmalikdev&layout=compact&hide_border=true&theme=transparent)
+![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeelmalikdev&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelmalikdev&layout=compact&hide_border=true&theme=default)
