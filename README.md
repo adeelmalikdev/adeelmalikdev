@@ -1,21 +1,27 @@
 # Hi there, I'm Adeel Malik 👋
 
-I'm an AI/ML engineer focused on building robust agentic AI systems, RAG pipelines, and document parsers. My work revolves around creating intelligent applications using modern AI frameworks. 
+I'm an AI/ML engineer focused on building agentic AI systems, RAG pipelines, and document parsers using modern AI frameworks.
 
 ## 🛠 Skills & Tech Stack
-- **AI & Machine Learning:** LangChain, RAG, Agentic AI, Generative AI
-- **Languages:** Python, TypeScript, HTML
-- **Web & APIs:** FastAPI, Streamlit
-- **Data & Parsing:** Document extraction (CV, CNIC, Invoices)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🚀 Key Projects
-- **[agentic-rag](https://github.com/adeelmalikdev/agentic-rag):** Implementations of Agentic RAG pipelines.
-- **[agentic-invoice-parser](https://github.com/adeelmalikdev/agentic-invoice-parser) & [invoice-parser](https://github.com/adeelmalikdev/invoice-parser):** AI-powered parsers for extracting data from invoices.
-- **[cv-parser](https://github.com/adeelmalikdev/cv-parser) & [cnic-parser](https://github.com/adeelmalikdev/cnic-parser):** Python tools for data extraction from CVs and CNICs.
-- **[genai-inferencing-chatbot-streamlit](https://github.com/adeelmalikdev/genai-inferencing-chatbot-streamlit):** A Streamlit chatbot powered by the Google Gemini API.
-- **[langchain](https://github.com/adeelmalikdev/langchain) & [agents](https://github.com/adeelmalikdev/agents):** Projects and notebooks exploring LangChain and autonomous agents.
-- **[fastapi-postman-streamlit](https://github.com/adeelmalikdev/fastapi-postman-streamlit):** Application demonstrating FastAPI backend integrated with a Streamlit interface.
 
-## 📊 GitHub Stats
-![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeelmalikdev&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelmalikdev&layout=compact&hide_border=true&theme=default)
+- **[agentic-rag](https://github.com/adeelmalikdev/agentic-rag):** Agentic Retrieval-Augmented Generation pipelines.
+- **[agentic-invoice-parser](https://github.com/adeelmalikdev/agentic-invoice-parser) & [invoice-parser](https://github.com/adeelmalikdev/invoice-parser):** AI-powered parsers for extracting structured data from invoices.
+- **[cv-parser](https://github.com/adeelmalikdev/cv-parser) & [cnic-parser](https://github.com/adeelmalikdev/cnic-parser):** Document extraction tools for CVs and Pakistani CNICs.
+- **[genai-inferencing-chatbot-streamlit](https://github.com/adeelmalikdev/genai-inferencing-chatbot-streamlit):** Streamlit chatbot powered by the Google Gemini API.
+- **[agents](https://github.com/adeelmalikdev/agents) & [langchain](https://github.com/adeelmalikdev/langchain):** Experiments with autonomous AI agents and LangChain.
+- **[fastapi-postman-streamlit](https://github.com/adeelmalikdev/fastapi-postman-streamlit):** FastAPI backend with a Streamlit frontend interface.
+
+## 📬 Get in Touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-adeelmalikdev-181717?style=flat&logo=github)](https://github.com/adeelmalikdev)
