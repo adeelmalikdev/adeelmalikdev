@@ -1,8 +1,8 @@
 <div align="center">
 
-<h3>Adeel Malik</h3>
+<h3>Muhammad Adeel Tariq · Adeel Malik Dev</h3>
 
-<b>AI / ML Engineer & Systems Architect</b>
+<b>Founder of Adeel Builds · Salon Website Designer · AI / ML Engineer</b>
 
 <br/>
 
@@ -10,7 +10,7 @@
 <a href="https://github.com/adeelmalikdev">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&height=44&lines=Building+agentic+AI+systems+%C2%B7+RAG+pipelines+%C2%B7+ML+frameworks;Python+%C2%B7+PyTorch+%C2%B7+Scikit-learn+%C2%B7+LangChain+%C2%B7+FastAPI;Researching+Adaptive+Oversampling+(ADASMOTE)+%26+Label-Noise;Design-obsessed%2C+ship-focused+AI+engineer"
-    alt="Adeel Malik Tagline"
+    alt="Muhammad Adeel Tariq, Adeel Malik Dev"
   />
 </a>
 
@@ -23,6 +23,13 @@
 </div>
 
 <br/>
+
+## Muhammad Adeel Tariq — Adeel Malik Dev
+
+I'm **Muhammad Adeel Tariq**, known online as **Adeel Malik Dev**. I founded **[Adeel Builds](https://adeelmalikdev.me/adeel-builds-portfolio/)** to design fixed-price, direct-booking websites for UK salons, clinics, and barbershops. I also engineer AI/ML systems, agentic workflows, RAG pipelines, and document-intelligence products.
+
+- **Need a website for your salon, clinic, or barbershop?** See [Adeel Builds](https://adeelmalikdev.me/adeel-builds-portfolio/) for a free homepage mockup before you pay.
+- **Building an AI product?** Explore my research and engineering projects below.
 
 ## 👨‍💻 About Me
 
@@ -98,6 +105,7 @@ adeel = {
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| ✂️ **[Adeel Builds — Salon Websites](https://adeelmalikdev.me/adeel-builds-portfolio/)** | Fixed-price, direct-booking websites for UK salons, clinics, and barbershops, with a free homepage mockup first | `HTML` `CSS` `JavaScript` `UX` `SEO` |
 | 💳 **[Credit Card Fraud Detection](https://github.com/adeelmalikdev/credit-card-fraud-detection)** | Publication-quality ML framework evaluating ADASMOTE oversampling & label-noise correction | `Python` `Scikit-Learn` `XGBoost` `CleanLab` `MLflow` |
 | 🤖 **[Agentic RAG Pipeline](https://github.com/adeelmalikdev/agentic-rag)** | Autonomous Retrieval-Augmented Generation workflows & reasoning agents | `Python` `LangChain` `LLMs` `FastAPI` |
 | 📄 **[Agentic Invoice Parser](https://github.com/adeelmalikdev/agentic-invoice-parser)** | AI document parsing pipeline for extracting structured data from complex invoices | `Python` `Gemini API` `FastAPI` `Streamlit` |
@@ -125,6 +133,7 @@ adeel = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-adeelmalikdev-181717?style=for-the-badge&logo=github)](https://github.com/adeelmalikdev)
+[![Adeel Builds](https://img.shields.io/badge/Adeel_Builds-Salon_Websites-A97C50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adeelmalikdev.me/adeel-builds-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeel_Malik-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelmalik.dev@gmail.com)
 
